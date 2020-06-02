@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Xung d?t file "ThongBranch.txt"
+=======
+﻿Tạo xung đột - Thông
+>>>>>>> origin/Thong_feature
